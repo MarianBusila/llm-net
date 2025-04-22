@@ -1,2 +1,2 @@
 # llm-net
-GenAI exploration in .NET
+GenAI exploration in .NET using Ollama.
