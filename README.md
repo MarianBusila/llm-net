@@ -19,3 +19,4 @@ ollama pull mistral
 - [RAG-InMemory-Ollama-MEAI](./src/RAG-InMemory-Ollama-MEAI/) - Sample for RAG with InMemory Vector Store using MEAI
 - [RAG-InMemory-Ollama-SK](./src/RAG-InMemory-Ollama-SK/) - Sample for RAG with InMemory Vector Store using SK
 - [RAG-Qdrant-Ollama-MEAI](./src/RAG-Qdrant-Ollama-MEAI/) - Sample for RAG with Qdrant Vector Store using MEAI
+- [Vision-Ollama-MEAI](./src/Vision-Ollama-MEAI/) - Sample for image analysis using MEAI
