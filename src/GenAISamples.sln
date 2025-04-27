@@ -6,6 +6,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicChat-Ollama-SK", "Basi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions-Ollama-MEAI", "Functions-Ollama-MEAI\Functions-Ollama-MEAI.csproj", "{117AE1B3-AA02-4EBB-850D-849C77550685}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RAG-Shared", "RAG-Shared\RAG-Shared.csproj", "{7C92C3DA-260C-41F3-BEE7-5B535424447A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RAG-InMemory-Ollama-MEAI", "RAG-InMemory-Ollama-MEAI\RAG-InMemory-Ollama-MEAI.csproj", "{140C9841-8370-4186-94CD-DCAA1660E314}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +28,13 @@ Global
 		{117AE1B3-AA02-4EBB-850D-849C77550685}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{117AE1B3-AA02-4EBB-850D-849C77550685}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{117AE1B3-AA02-4EBB-850D-849C77550685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C92C3DA-260C-41F3-BEE7-5B535424447A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C92C3DA-260C-41F3-BEE7-5B535424447A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C92C3DA-260C-41F3-BEE7-5B535424447A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C92C3DA-260C-41F3-BEE7-5B535424447A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{140C9841-8370-4186-94CD-DCAA1660E314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{140C9841-8370-4186-94CD-DCAA1660E314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{140C9841-8370-4186-94CD-DCAA1660E314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{140C9841-8370-4186-94CD-DCAA1660E314}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
