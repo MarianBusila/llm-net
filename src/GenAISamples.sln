@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RAG-InMemory-Ollama-MEAI", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RAG-InMemory-Ollama-SK", "RAG-InMemory-Ollama-SK\RAG-InMemory-Ollama-SK.csproj", "{6C92BCAD-B001-4CB3-A316-21A53F41F917}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RAG-Qdrant-Ollama-MEAI", "RAG-Qdrant-Ollama-MEAI\RAG-Qdrant-Ollama-MEAI.csproj", "{9D686E98-5185-4FE6-9EEF-362A2462D4A9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{6C92BCAD-B001-4CB3-A316-21A53F41F917}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6C92BCAD-B001-4CB3-A316-21A53F41F917}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6C92BCAD-B001-4CB3-A316-21A53F41F917}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D686E98-5185-4FE6-9EEF-362A2462D4A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D686E98-5185-4FE6-9EEF-362A2462D4A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D686E98-5185-4FE6-9EEF-362A2462D4A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D686E98-5185-4FE6-9EEF-362A2462D4A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

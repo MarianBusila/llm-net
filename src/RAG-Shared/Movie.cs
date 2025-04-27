@@ -21,12 +21,12 @@ public class Movie<T>
 
 public class MovieVector<T> : Movie<T>
 {
-    [VectorStoreRecordVector(384, DistanceFunction.CosineDistance)]
+    [VectorStoreRecordVector(384, DistanceFunction.DotProductSimilarity)]
     public ReadOnlyMemory<float> Vector { get; set; }
 }
 
 public class MovieSqlite<T> : Movie<T>
 {
-    [VectorStoreRecordVector(4, DistanceFunction.CosineDistance)]
+    [VectorStoreRecordVector(4, DistanceFunction.DotProductSimilarity)]
     public ReadOnlyMemory<float> DescriptionEmbedding { get; set; }
 }
