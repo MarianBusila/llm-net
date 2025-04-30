@@ -18,6 +18,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vision-Ollama-MEAI", "Visio
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vision-OpenAI-MEAI", "Vision-OpenAI-MEAI\Vision-OpenAI-MEAI.csproj", "{1839751E-E4FD-4B1E-829E-96B50F72087B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgentWithFunctions-Ollama-SK", "AgentWithFunctions-Ollama-SK\AgentWithFunctions-Ollama-SK.csproj", "{B24860EE-ECEA-44EB-92B9-20221387F637}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agent-Ollama-SK", "Agent-Ollama-SK\Agent-Ollama-SK.csproj", "{75B0F365-9652-4E56-B196-BE9F73F53034}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -60,5 +64,13 @@ Global
 		{1839751E-E4FD-4B1E-829E-96B50F72087B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1839751E-E4FD-4B1E-829E-96B50F72087B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1839751E-E4FD-4B1E-829E-96B50F72087B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B24860EE-ECEA-44EB-92B9-20221387F637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B24860EE-ECEA-44EB-92B9-20221387F637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B24860EE-ECEA-44EB-92B9-20221387F637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B24860EE-ECEA-44EB-92B9-20221387F637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75B0F365-9652-4E56-B196-BE9F73F53034}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75B0F365-9652-4E56-B196-BE9F73F53034}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75B0F365-9652-4E56-B196-BE9F73F53034}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75B0F365-9652-4E56-B196-BE9F73F53034}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
