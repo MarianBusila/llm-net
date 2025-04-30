@@ -22,6 +22,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgentWithFunctions-Ollama-S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agent-Ollama-SK", "Agent-Ollama-SK\Agent-Ollama-SK.csproj", "{75B0F365-9652-4E56-B196-BE9F73F53034}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCPServer-Docker-Ollama-MEAI", "MCPServer-Docker-Ollama-MEAI\MCPServer-Docker-Ollama-MEAI.csproj", "{0EE3A02C-32DF-49A1-8F7B-A01D51A13045}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +74,9 @@ Global
 		{75B0F365-9652-4E56-B196-BE9F73F53034}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75B0F365-9652-4E56-B196-BE9F73F53034}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75B0F365-9652-4E56-B196-BE9F73F53034}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EE3A02C-32DF-49A1-8F7B-A01D51A13045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EE3A02C-32DF-49A1-8F7B-A01D51A13045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EE3A02C-32DF-49A1-8F7B-A01D51A13045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EE3A02C-32DF-49A1-8F7B-A01D51A13045}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

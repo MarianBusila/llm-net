@@ -19,4 +19,8 @@ ollama pull mistral
 - [RAG-InMemory-Ollama-MEAI](./src/RAG-InMemory-Ollama-MEAI/) - Sample for RAG with InMemory Vector Store using MEAI
 - [RAG-InMemory-Ollama-SK](./src/RAG-InMemory-Ollama-SK/) - Sample for RAG with InMemory Vector Store using SK
 - [RAG-Qdrant-Ollama-MEAI](./src/RAG-Qdrant-Ollama-MEAI/) - Sample for RAG with Qdrant Vector Store using MEAI
-- [Vision-Ollama-MEAI](./src/Vision-Ollama-MEAI/) - Sample for image analysis using MEAI
+- [Vision-Ollama-MEAI](./src/Vision-Ollama-MEAI/) - Sample for image analysis using MEAI and Ollama
+- [Vision-OpenAI-MEAI](./src/Vision-OpenAP-MEAI/) - Sample for image analysis using MEAI and OpenAI
+- [Agent-Ollama-SK](./src/Agent-Ollama-SK/) - Simple agent defined using SK
+- [AgentWithFunctions-Ollama-SK] - SK Agent with function calling
+- [MCPServer-Docker-Ollama-MEAI] - Chat client calling mcp server run via docker to get the time
