@@ -24,6 +24,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Agent-Ollama-SK", "Agent-Ol
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCPServer-Docker-Ollama-MEAI", "MCPServer-Docker-Ollama-MEAI\MCPServer-Docker-Ollama-MEAI.csproj", "{0EE3A02C-32DF-49A1-8F7B-A01D51A13045}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCPServer-Time", "MCPServer-Time\MCPServer-Time.csproj", "{56B5AC75-4C0F-483A-8771-1D1F216FBEBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCPClient-Time", "MCPClient-Time\MCPClient-Time.csproj", "{7F79023B-6B66-411F-9DEB-3D64B1AA8E03}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,5 +82,13 @@ Global
 		{0EE3A02C-32DF-49A1-8F7B-A01D51A13045}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EE3A02C-32DF-49A1-8F7B-A01D51A13045}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EE3A02C-32DF-49A1-8F7B-A01D51A13045}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56B5AC75-4C0F-483A-8771-1D1F216FBEBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56B5AC75-4C0F-483A-8771-1D1F216FBEBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56B5AC75-4C0F-483A-8771-1D1F216FBEBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56B5AC75-4C0F-483A-8771-1D1F216FBEBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F79023B-6B66-411F-9DEB-3D64B1AA8E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F79023B-6B66-411F-9DEB-3D64B1AA8E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F79023B-6B66-411F-9DEB-3D64B1AA8E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F79023B-6B66-411F-9DEB-3D64B1AA8E03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

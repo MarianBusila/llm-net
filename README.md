@@ -22,5 +22,6 @@ ollama pull mistral
 - [Vision-Ollama-MEAI](./src/Vision-Ollama-MEAI/) - Sample for image analysis using MEAI and Ollama
 - [Vision-OpenAI-MEAI](./src/Vision-OpenAP-MEAI/) - Sample for image analysis using MEAI and OpenAI
 - [Agent-Ollama-SK](./src/Agent-Ollama-SK/) - Simple agent defined using SK
-- [AgentWithFunctions-Ollama-SK] - SK Agent with function calling
-- [MCPServer-Docker-Ollama-MEAI] - Chat client calling mcp server run via docker to get the time
+- [AgentWithFunctions-Ollama-SK](./src/AgentWithFunctions-Ollama-SK/) - SK Agent with function calling
+- [MCPServer-Docker-Ollama-MEAI](./src/MCPServer-Docker-Ollama-MEAI/) - Chat client calling mcp server run via docker to get the time
+- [MCPServer-Time](./src/MCPServer-Time/) and [MCPClient-Time](./src/MCPClient-Time/) - Chat client calling mcp server to get the time using [MCP csharp-sdk package](https://github.com/modelcontextprotocol/csharp-sdk)
