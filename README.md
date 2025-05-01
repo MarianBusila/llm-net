@@ -25,3 +25,4 @@ ollama pull mistral
 - [AgentWithFunctions-Ollama-SK](./src/AgentWithFunctions-Ollama-SK/) - SK Agent with function calling
 - [MCPServer-Docker-Ollama-MEAI](./src/MCPServer-Docker-Ollama-MEAI/) - Chat client calling mcp server run via docker to get the time
 - [MCPServer-Time](./src/MCPServer-Time/) and [MCPClient-Time](./src/MCPClient-Time/) - Chat client calling mcp server to get the time using [MCP csharp-sdk package](https://github.com/modelcontextprotocol/csharp-sdk)
+- [OpenAPI-OpenAI-SK](./src/OpenAPI-OpenAI-SK/) - Chat client calling OpenAPI endpoints using SK
