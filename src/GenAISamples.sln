@@ -30,6 +30,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCPClient-Time", "MCPClient
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenAPI-OpenAI-SK", "OpenAPI-OpenAI-SK\OpenAPI-OpenAI-SK.csproj", "{75E3AB2E-C146-4F77-9911-AD355E14B906}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicChat-Gemini-SK", "BasicChat-Gemini-SK\BasicChat-Gemini-SK.csproj", "{9572ABB5-1E1B-4EB3-A801-BA5158A583AB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,5 +98,9 @@ Global
 		{75E3AB2E-C146-4F77-9911-AD355E14B906}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75E3AB2E-C146-4F77-9911-AD355E14B906}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75E3AB2E-C146-4F77-9911-AD355E14B906}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9572ABB5-1E1B-4EB3-A801-BA5158A583AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9572ABB5-1E1B-4EB3-A801-BA5158A583AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9572ABB5-1E1B-4EB3-A801-BA5158A583AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9572ABB5-1E1B-4EB3-A801-BA5158A583AB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

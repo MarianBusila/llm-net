@@ -15,6 +15,7 @@ ollama pull mistral
 
 - [BasicChat-Ollama-MEAI](./src/BasicChat-Ollama-MEAI/) - Sample for a chat, using MEAI
 - [BasicChat-Ollama-SK](./src/BasicChat-Ollama-SK/) - Sample for a chat, using SK
+- [BasicChat-Gemini-SK](./src/BasicChat-Gemini-SK/) - Sample for a chat, using SK and Google Gemini
 - [Functions-Ollama-MEAI](./src/Functions-Ollama-MEAI/) - Sample for function calling using MEAI
 - [RAG-InMemory-Ollama-MEAI](./src/RAG-InMemory-Ollama-MEAI/) - Sample for RAG with InMemory Vector Store using MEAI
 - [RAG-InMemory-Ollama-SK](./src/RAG-InMemory-Ollama-SK/) - Sample for RAG with InMemory Vector Store using SK
