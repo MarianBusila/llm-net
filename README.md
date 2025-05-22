@@ -27,3 +27,4 @@ ollama pull mistral
 - [MCPServer-Docker-Ollama-MEAI](./src/MCPServer-Docker-Ollama-MEAI/) - Chat client calling mcp server run via docker to get the time
 - [MCPServer-Time](./src/MCPServer-Time/) and [MCPClient-Time](./src/MCPClient-Time/) - Chat client calling mcp server to get the time using [MCP csharp-sdk package](https://github.com/modelcontextprotocol/csharp-sdk)
 - [OpenAPI-OpenAI-SK](./src/OpenAPI-OpenAI-SK/) - Chat client calling OpenAPI endpoints using SK
+- [Agents-GroupChatWithAIManager](./src/Agents-GroupChatWithAIManager/) - Agent orchestration using an AI GroupChatManager using OpenAI. The agents debate on the "What does a good life mean to you?". The chat manager collects several viewpoints and then does a summary of the discussion.
